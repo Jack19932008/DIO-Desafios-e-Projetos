@@ -1,0 +1,11 @@
+comandos básicos windows: CMD
+
+dir(diretório/diretory)
+cd(change directory/escolher diretório) ex.:cd windows
+mkdir(make directory/criar diretório) ex.: mkdir workspace
+del(delete/deletar) deletar arquivo dentro do diretório criado
+rmdir(remove directory/remover diretório) deletar o diretório 
+
+cd..(voltar ação) 
+ex.:echo hello > echo hello.txt --> exemplo de arquivo criado 
+
